@@ -75,3 +75,5 @@ minify:
   _merge: deep
 
 disableHugoGeneratorInject: true
+params:
+  wowchemy: false
