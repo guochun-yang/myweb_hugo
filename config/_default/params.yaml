@@ -114,4 +114,4 @@ security:
   allow_frame: true
 
 customCSS:
-  - static/uploads/custom.css
+  - /static/uploads/custom.css
